@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+data/experiments.db
+artifacts/experiments.db
+*.db-journal
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
