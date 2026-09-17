@@ -276,8 +276,7 @@ jupyter notebook "final with pca.ipynb"
 
 <div align="center">
 
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
 
-⭐ Star the main repo if this helped you!
+
 
 </div>
