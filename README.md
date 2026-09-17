@@ -11,7 +11,7 @@
 
 > Detecting the **presence or absence of cardiac arrhythmia** and classifying it into one of **16 groups** using classical ML algorithms and PCA-based dimensionality reduction on ECG signal data.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
+
 
 </div>
 
